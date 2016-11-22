@@ -31,6 +31,7 @@ This project treats about AngularJS 1, AngularJS 2 and ReactJS performance bench
 
  ```bash
  cd AngularJS\ 2
+ npm install
  npm start
 ```
 
