@@ -1,5 +1,6 @@
 # AngularJS-vs-ReactJS-Benchmark
-This project treats about AngularJS 1, AngularJS 2 and ReactJS performance benchmarking :)
+
+![Overview](http://www.nhpcw.com/upload/benchmark_overview_112216083259.png)
 
 ----
 
