@@ -1,5 +1,7 @@
 # AngularJS-vs-ReactJS-Benchmark
 
+[![Join the chat at https://gitter.im/KennethanCeyer/tutorial-git](https://badges.gitter.im/KennethanCeyer/tutorial-git.svg)](https://gitter.im/KennethanCeyer/tutorial-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Overview](http://www.nhpcw.com/upload/benchmark_overview_112216083259.png)
 
 ----
