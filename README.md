@@ -19,6 +19,25 @@ This project treats about AngularJS 1, AngularJS 2 and ReactJS performance bench
 
 ----
 
+### How to use
+
+- You can install as follows.
+
+ ```bash
+ git clone git@github.com:KennethanCeyer/AngularJS-vs-ReactJS-Benchmark.git
+```
+
+- If you check AngularJS 2  benchmark.
+
+ ```bash
+ cd AngularJS\ 2
+ npm start
+```
+
+- You can check other benchmark to `npm start` command.
+
+----
+
 ### Behchmark Metric
 
 1. **Benchmark1**
@@ -38,6 +57,7 @@ This project treats about AngularJS 1, AngularJS 2 and ReactJS performance bench
 ### Results
 
 - Yellow one is top performance result in each of library or category.
+- You can check `Benchmark_Total.xlsx` file in root directory.
 
  ![Benchmark result](http://www.nhpcw.com/upload/specs_112216074921.png)
  
