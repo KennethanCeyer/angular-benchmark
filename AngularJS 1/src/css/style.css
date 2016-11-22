@@ -1,0 +1,54 @@
+html, body {
+    font-family: 'Open Sans', 'Nanum Square', sans-serif;
+}
+
+.works-header .works-header-inner .works-header-action h1 {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    margin: 0;
+    padding: 0;
+    font-size: 160%;
+    font-weight: 400;
+}
+
+.works-header .works-header-inner .works-header-action * {
+    vertical-align: middle;
+}
+
+.works-header .works-header-inner .works-header-action h1 a:hover {
+    color: #ffffff;
+}
+
+.works-section .section-inner {
+    line-height: 2;
+    font-size: 115%;
+    margin-bottom: 2em;
+}
+
+.works-content {
+    top: 128px;
+}
+
+.works-container {
+    padding-top: 30px !important;
+}
+
+.works-section .section-inner p {
+    margin-bottom: 1em;
+}
+
+.works-section .section-inner:last-child {
+    margin-bottom: 0;
+}
+
+.btn-group {
+    max-width: 360px;
+    margin: 40px auto 0;
+    padding-top: 40px;
+    border-top: 1px solid #e2e2e2;
+}
+
+.table {
+    margin-top: 40px;
+}

@@ -1,0 +1,28 @@
+<div class="works-top ng-scope">
+    <div class="works-menu">
+        <a href="#/benchmark/1">Benchmark 1</a>
+        <a href="#/benchmark/2" class="active">Benchmark 2</a>
+        <a href="#/benchmark/3">Benchmark 3</a>
+    </div>
+</div>
+<div class="works-container">
+    <div class="works-section works-section-padding">
+        <h2 class="section-title">Benchmark 2</h2>
+
+        <div class="guide">
+            <p>10,000개의 &lt;a&gt; 태그중 랜덤 5,000개를 삭제합니다.</p>
+            <p class="guide-time ng-hide" ng-show="timeSpend !== -1">
+                <strong>랜더링 반영시간</strong>
+                <span>{{timeSpend}} ms</span>
+            </p>
+        </div>
+
+        <a href="#" class="btn btn-material btn-primary btn-xg btn-block" ng-click="benchmark();" style="max-width: 300px; margin: 0 auto;">
+            Delete random 5,000 items.
+        </a>
+
+        <div class="btn-group ng-hide" ng-show="list.length > 0">
+            <a href="#" class="btn btn-block btn-force btn-marterial" ng-repeat="item in list">{{item.text}}</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,32 @@
+<div class="works-top ng-scope">
+    <div class="works-menu">
+        <a href="#/benchmark/1">Benchmark 1</a>
+        <a href="#/benchmark/2">Benchmark 2</a>
+        <a href="#/benchmark/3" class="active">Benchmark 3</a>
+    </div>
+</div>
+<div class="works-container">
+    <div class="works-section works-section-padding">
+        <h2 class="section-title">Benchmark 3</h2>
+
+        <div class="guide">
+            <p>1000개의 행의 20개의 열의 테이블을 만듭니다.</p>
+            <p class="guide-time ng-hide" ng-show="timeSpend !== -1">
+                <strong>랜더링 반영시간</strong>
+                <span>{{timeSpend}} ms</span>
+            </p>
+        </div>
+
+        <a href="#" class="btn btn-material btn-primary btn-xg btn-block" ng-click="benchmark();" style="max-width: 300px; margin: 0 auto;">
+            Create table.
+        </a>
+
+        <table class="table table-bordered">
+            <tr ng-repeat="item in list">
+                <td ng-repeat="sub in item">
+                    {{sub.text}}
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

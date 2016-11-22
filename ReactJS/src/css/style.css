@@ -1,0 +1,109 @@
+html, body {
+    font-family: 'Open Sans', 'Nanum Square', sans-serif;
+}
+
+.btn {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.works-header .works-header-inner .works-header-action h1 {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    margin: 0;
+    padding: 0;
+    font-size: 160%;
+    font-weight: 400;
+}
+
+.works-header .works-header-inner .works-header-action * {
+    vertical-align: middle;
+}
+
+.works-header .works-header-inner .works-header-action h1 a:hover {
+    color: #ffffff;
+}
+
+.works-section.works-main-section {
+}
+
+.works-section.works-main-section .works-content-header {
+    margin: 0 -40px 40px;
+    padding: 40px 0;
+    border-bottom: 1px solid #e2e2e2;
+    box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    text-align: center;
+}
+
+.works-section .section-inner {
+    line-height: 2;
+    font-size: 115%;
+    padding: 4em 0;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.works-section .section-inner:first-child {
+    padding-top: 0;
+}
+
+.works-section .section-inner:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.works-content {
+    top: 128px;
+}
+
+.works-container {
+    padding-top: 30px !important;
+}
+
+.works-content .works-react-logo {
+    width: 120px;
+    animation: react-logo-spin infinite 20s linear;
+    -webkit-animation: react-logo-spin infinite 20s linear;
+}
+
+.works-section .section-inner p {
+    margin-bottom: 1em;
+}
+
+.works-section .section-inner:last-child {
+    margin-bottom: 0;
+}
+
+.btn-group {
+    max-width: 360px;
+    margin: 40px auto 0;
+    padding-top: 40px;
+    border-top: 1px solid #e2e2e2;
+}
+
+.table {
+    margin-top: 40px;
+}
+
+@keyframes react-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes react-logo-spin {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}

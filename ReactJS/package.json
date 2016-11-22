@@ -1,0 +1,21 @@
+{
+  "name": "reactjs-performance-benchmark",
+  "version": "1.0.0",
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "licenses": {
+    "type": "MIT"
+  },
+  "dependencies": {
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-router": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

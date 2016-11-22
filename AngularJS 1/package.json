@@ -1,0 +1,17 @@
+{
+  "name": "angularjs-1-performance-benchmark",
+  "version": "1.0.0",
+  "licenses": {
+    "type": "MIT"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
