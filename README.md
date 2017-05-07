@@ -87,4 +87,4 @@ It will be more faster.
 
 ### Related
 
-- This project is related with [Angular-Best-Practices](https://github.com/KennethanCeyer/AngularJS-Best-Practices).
+- This project announced at [angular-meetup](https://github.com/KennethanCeyer/angular-meetup).
