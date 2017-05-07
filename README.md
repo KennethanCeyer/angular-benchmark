@@ -1,8 +1,18 @@
-# AngularJS-vs-ReactJS-Benchmark
+# Angular benchmark
 
 [![Join the chat at https://gitter.im/KennethanCeyer/tutorial-git](https://badges.gitter.im/KennethanCeyer/tutorial-git.svg)](https://gitter.im/KennethanCeyer/PIGNOSE)
 
 ![Overview](http://www.nhpcw.com/upload/benchmark_overview_112216083259.png)
+
+**Alert**
+
+```plaintext
+This project measures only JIT type codes.
+
+If you compile angular code to AOT.
+
+It will be more faster.
+```
 
 ----
 
