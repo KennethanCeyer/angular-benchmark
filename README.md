@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/KennethanCeyer/tutorial-git](https://badges.gitter.im/KennethanCeyer/tutorial-git.svg)](https://gitter.im/KennethanCeyer/PIGNOSE)
 
-![Overview](http://www.nhpcw.com/upload/benchmark_overview_112216083259.png)
+![Overview](http://www.pigno.se/static/assets/images/angular_benchmark.png)
 
 **Alert**
 
