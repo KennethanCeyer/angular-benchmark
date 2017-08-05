@@ -2,8 +2,6 @@
 
 [![Join the chat at https://gitter.im/KennethanCeyer/tutorial-git](https://badges.gitter.im/KennethanCeyer/tutorial-git.svg)](https://gitter.im/KennethanCeyer/PIGNOSE)
 
-![Overview](http://www.pigno.se/static/assets/images/angular_benchmark.png)
-
 **Alert**
 
 ```plaintext
@@ -73,7 +71,7 @@ It will be more faster.
 - Yellow one is top performance result in each of library or category.
 - You can check `Benchmark_Total.xlsx` file in root directory.
 
- ![Benchmark result](http://www.nhpcw.com/upload/specs_112216074921.png)
+ ![Benchmark result](http://www.pigno.se/static/assets/images/angular_benchmark.png)
  
 ----
  
